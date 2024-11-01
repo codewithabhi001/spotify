@@ -10,7 +10,7 @@ class Choosemode extends StatelessWidget {
         width: double.infinity,
         decoration: const BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/bg.png'),
+            image: AssetImage('assets/choosemode.png'),
             fit: BoxFit.fill,
           ),
         ),
